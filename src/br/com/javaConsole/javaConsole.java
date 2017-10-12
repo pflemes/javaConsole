@@ -20,7 +20,7 @@ public class javaConsole {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.print("GitHub");
+        System.out.print("GitHub Novo");
         sqlCls sql = new sqlCls();
         //sql.insert();
         sql.selectAll();
